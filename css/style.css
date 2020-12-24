@@ -187,7 +187,6 @@ filter: brightness(1);
   }
   /* section1 */
 .section{
-  position: relative;
   padding: 0;
   margin: 0;
   overflow: hidden;
